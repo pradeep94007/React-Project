@@ -1,0 +1,635 @@
+{
+  "categories": [
+    {
+      "categoryname": "Ethnic Outfits",
+      "categorydesc": "This Ethnic Outfits are all for Man's only.",
+      "categoryimage": "https://m.media-amazon.com/images/I/61Q9i7N-QjL._UY879_.jpg",
+      "id": "1696523304815"
+    },
+    {
+      "categoryname": "Business Professional Outfit",
+      "categorydesc": "This Business Professional Outfit are all for Electronic Users only.",
+      "categoryimage": "https://m.media-amazon.com/images/I/614CD5B5rSL._UX679_.jpg",
+      "id": "1696523337794"
+    },
+    {
+      "id": "1710572126012",
+      "categoryname": "formal clothess",
+      "categorydesc": "formal stylesdddddd",
+      "categoryimage": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRgWFRUYGBgaGhocGBoaHBoYGhoaGiEaGhoaGBocIS4lHB4rIRgaJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHjQrJCQ3NDQ0NDQ0NDQ0NDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIALcBEwMBIgACEQEDEQH/xAAbAAADAAMBAQAAAAAAAAAAAAAAAQIDBAYFB//EAD0QAAIBAgQDBQQIBQMFAAAAAAECAAMRBBIhMQZB8AUiUWGREzJxgQdCUmJygqGxM5KiweEjssIUFUNzw//EABoBAAMBAQEBAAAAAAAAAAAAAAECAwAEBQb/xAAlEQACAgICAgEEAwAAAAAAAAAAAQIRAxIhMQRBURMiYdFxobH/2gAMAwEAAhEDEQA/AOBqKJhEp2iEucfoBKiEq0dCskwZJlRPGOqwmaMmaxilSZMqEoCK0zomkKVit0YQIWmRkkgQ0CwEI4owo5npnSYVE2UWwjRQkmQ1MTGVjdpMLoCMqpIcWiBhMYIWjhNRrFaIiWFleyMZRBsY4TKtEy2oR1FiuSNYCVGRCajNgBGIAQENAbNimgMr/p5jo7zdCS8YqS6ISk4swLhpfslEKrkaTBmJmesfQq2fs2O7Ca8IN/wbX8nnAS1QzZSmJkCzhjE9CUjAtExtYSqlS2k1maF0hVb7G7zGYEwk5MrFExmOEUYFm1eayiZ30EeIkhM8xmKENgGI1EBFMA2qaCVWOkwU3tMtbaUT4JtcmvAQEcULCAgIXhMOEIQgMlNtZtiaKzdpy2N+iU0VACKMS6Js1qyc5itN5lvNV6ZBk5RrkaMvREBC0dogzKWehTOk89Z6FHaWxEMprYgazGom9Up3E1GSxgnFpgjNNUTbroQlZYRRrIECLxgRic6R1Nmu9Ka7CegZhdAYkojxkacJnNGStGSaKqSMU"
+    },
+    {
+      "id": "1710573248844",
+      "categoryname": "11111111aaaaaa",
+      "categorydesc": "dddddd",
+      "categoryimage": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fluxuryasiainsider.files.wordpress.com%2F2019%2F08%2Fray-ban-global-brand-ambassador-jackson-wang-in-the-classic-ray-ban-aviator.jpg%3Fw%3D640&tbnid=jJxExNdxvxmhMM&vet=12ahUKEwj2-YSf99KEAxWozDgGHR_pCtEQMygAegQIARBP..i&imgrefurl=https%3A%2F%2Fluxuryasiainsider.com%2F2019%2F08%2F29%2Fray-ban-announces-jackson-wang-as-the-global-brand-ambassador%2F&docid=5fH2bfziEP_-gM&w=640&h=869&q=raybound%20brand&hl=en&ved=2ahUKEwj2-YSf99KEAxWozDgGHR_pCtEQMygAegQIARBP"
+    }
+  ],
+  "casual": [
+    {
+      "cate_name": "Casual ",
+      "product_name": "Casual Shirt ",
+      "desc": "This Casual shirt is best for any Men. ",
+      "price": "700",
+      "discounted_price": "599",
+      "img_url": "https://m.media-amazon.com/images/I/71hiYw-SQNL._UX569_.jpg",
+      "id": "1696435552365"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual Shirt 2nd",
+      "desc": "This Casual t-shirt is best for any Men.",
+      "price": "500",
+      "discounted_price": "399",
+      "img_url": "https://m.media-amazon.com/images/I/51WC2mEv8yL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696437599343"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual Shirt 3rd",
+      "desc": "This Casual shirt is best for any Men.",
+      "price": "800",
+      "discounted_price": "649",
+      "img_url": "https://m.media-amazon.com/images/I/61Kl7I4tCHL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696491377205"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual Shirt 4th",
+      "desc": "This Casual t-shirt is best for any Men.",
+      "price": "400",
+      "discounted_price": "299",
+      "img_url": "https://m.media-amazon.com/images/I/61ZbKLlt0sL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696435895133"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual T-Shirt",
+      "desc": "This Casual t-shirt is best for any Men.",
+      "price": "400",
+      "discounted_price": "299",
+      "img_url": "https://m.media-amazon.com/images/I/61wsFs8xoCL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696435895133"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual T-Shirt 2nd",
+      "desc": "This Casual t-shirt is best for any Men.",
+      "price": "500",
+      "discounted_price": "399",
+      "img_url": "https://m.media-amazon.com/images/I/51QULwWrJuL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696591668113"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual T-Shirt 3rd",
+      "desc": "This Casual t-shirt is best for any Men.",
+      "price": "799",
+      "discounted_price": "599",
+      "img_url": "https://m.media-amazon.com/images/I/61xXO4SSioL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696591718556"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual T-Shirt 4th",
+      "desc": "This Casual t-shirt is best for any Men.",
+      "price": "649",
+      "discounted_price": "499",
+      "img_url": "https://m.media-amazon.com/images/I/71AEwEupFuL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696591771746"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual Pant 1st",
+      "desc": "This is best quality and value for money Pant.",
+      "price": "999",
+      "discounted_price": "799",
+      "img_url": "https://m.media-amazon.com/images/I/6177OhdEoIL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696591872597"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual Pant 2nd",
+      "desc": "This is best quality and value for money Pant.",
+      "price": "1049",
+      "discounted_price": "749",
+      "img_url": "https://m.media-amazon.com/images/I/61lGweMP0xL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696591911538"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual Pant 3rd",
+      "desc": "This is best quality and value for money Pant.",
+      "price": "849",
+      "discounted_price": "699",
+      "img_url": "https://m.media-amazon.com/images/I/51DtgLzSYLL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696591937601"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual Pant 4th",
+      "desc": "This is best quality and value for money Pant.",
+      "price": "1099",
+      "discounted_price": "899",
+      "img_url": "https://m.media-amazon.com/images/I/61YHtYYabpL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696591968794"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "temp product",
+      "desc": "dvbljdfhvd",
+      "price": "600",
+      "discounted_price": "399",
+      "img_url": "https://m.media-amazon.com/images/I/61wsFs8xoCL._AC_UL480_FMwebp_QL65_.jpg",
+      "created_at": " 📅 10/10/2023 ⌚ 22:2",
+      "id": "1696955527424",
+      "updated_at": " 📅 10/10/2023 ⌚ 22:3"
+    },
+    {
+      "cate_name": "Casual",
+      "product_name": "Casual Shirt",
+      "desc": "product description",
+      "price": "450",
+      "discounted_price": "350",
+      "img_url": "https://m.media-amazon.com/images/I/71hiYw-SQNL._UX569_.jpg",
+      "created_at": " 📅 17/10/2023 ⌚ 14:58",
+      "id": "1697534931524"
+    },
+    {
+      "cate_name": "casual",
+      "product_name": "Casual Shirt",
+      "desc": "This Casual shirt is best for any Men.",
+      "price": "500",
+      "discounted_price": "400",
+      "img_url": "https://m.media-amazon.com/images/I/61Kl7I4tCHL._AC_UL480_FMwebp_QL65_.jpg",
+      "created_at": " 📅 21/10/2023 ⌚ 11:41",
+      "id": "1697868683028"
+    }
+  ],
+  "ethnic": [
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Kurta Pajama with Koti",
+      "desc": "This is latest trending kurta Pajama for any functions.",
+      "price": "2800",
+      "discounted_price": "2400",
+      "img_url": "https://m.media-amazon.com/images/I/7193erCVd4L._UY741_.jpg",
+      "id": "1696437092057"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Kurta Pajama with Koti",
+      "desc": "This is latest trending kurta Pajama for any functions.  ",
+      "price": "3000",
+      "discounted_price": "2500",
+      "img_url": "https://m.media-amazon.com/images/I/610UI8Jv2OL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696437241047"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Kurta Pajama with Koti",
+      "desc": "Kurta Pajama with Koti. this is the best Ethnic outfit for any function.",
+      "price": "3000",
+      "discounted_price": "2500",
+      "img_url": "https://m.media-amazon.com/images/I/61Q9i7N-QjL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696592220587"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Kurta Pajama with Koti",
+      "desc": "Kurta Pajama with Koti. this is the best Ethnic outfit for any function.",
+      "price": "3500",
+      "discounted_price": "3000",
+      "img_url": "https://m.media-amazon.com/images/I/61IszRv0dUS._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696592252253",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Premium Kurta Pajama",
+      "desc": "This is latest trending kurta Pajama for any functions.",
+      "price": "2000",
+      "discounted_price": "1799",
+      "img_url": "https://m.media-amazon.com/images/I/810cgP9SgML._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696491458330"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Premium Kurta Pajama",
+      "desc": "Premium Kurta Pajama. this is the best Ethnic outfit for any function.",
+      "price": "5000",
+      "discounted_price": "4700",
+      "img_url": "https://m.media-amazon.com/images/I/51FE21IGnyS._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696593250664"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Premium Kurta Payjama",
+      "desc": "Premium Kurta Pajama. this is the best Ethnic outfit for any function.",
+      "price": "6000",
+      "discounted_price": "5600",
+      "img_url": "https://m.media-amazon.com/images/I/71UFXvaGmaL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696593833339"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Premium Kurta Payjama",
+      "desc": "Premium Kurta Pajama. this is the best Ethnic outfit for any function.",
+      "price": "5500",
+      "discounted_price": "5200",
+      "img_url": "https://m.media-amazon.com/images/I/71Kr5U4CdXL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696593857997",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Simple Kurta Pajama ",
+      "desc": "Simple Kurta Pajama. this is the best Ethnic outfit for any function.",
+      "price": "1000",
+      "discounted_price": "700",
+      "img_url": "https://m.media-amazon.com/images/I/31ahlz6HApL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652385584"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Simple Kurta Pajama",
+      "desc": "Simple Kurta Pajama. this is the best Ethnic outfit for any function.",
+      "price": "1000",
+      "discounted_price": "650",
+      "img_url": "https://m.media-amazon.com/images/I/51NG+s5cd0L._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652423570",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Simple Kurta Pajama",
+      "desc": "Simple Kurta Pajama. this is the best Ethnic outfit for any function.",
+      "price": "1000",
+      "discounted_price": "750",
+      "img_url": "https://m.media-amazon.com/images/I/51v7WHNHc2L._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652476457",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Ethnic",
+      "product_name": "Simple Kurta Pajama",
+      "desc": "Simple Kurta Pajama. this is the best Ethnic outfit for any function.",
+      "price": "1000",
+      "discounted_price": "600",
+      "img_url": "https://m.media-amazon.com/images/I/41sK6Vhhl8L._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652499733",
+      "status": "Available"
+    }
+  ],
+  "businessprofessional": [
+    {
+      "cate_name": "Business Professional ",
+      "product_name": "Suit  ",
+      "desc": "This is latest trending Suit for any functions and Business meetings. ",
+      "price": "14999",
+      "discounted_price": "12345",
+      "img_url": "https://m.media-amazon.com/images/I/51wMWQzXr5L._UY879_.jpg",
+      "id": "1696438031951",
+      "created_at": " 📅 6/10/2023 ⌚ 16:37",
+      "updated_at": " 📅 6/10/2023 ⌚ 16:38"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 2nd",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "12000",
+      "discounted_price": "10500",
+      "img_url": "https://m.media-amazon.com/images/I/61-kFZQpqkL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652597282",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 3rd",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "12500",
+      "discounted_price": "11000",
+      "img_url": "https://m.media-amazon.com/images/I/616e+PgaPjL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652619947",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 4th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "10000",
+      "discounted_price": "9000",
+      "img_url": "https://m.media-amazon.com/images/I/51sx+HbErlL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652651445",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 5th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "12000",
+      "discounted_price": "10999",
+      "img_url": "https://m.media-amazon.com/images/I/71ZFwnXsEfL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652711510",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 6th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "12500",
+      "discounted_price": "11499",
+      "img_url": "https://m.media-amazon.com/images/I/71ehWN-uLZL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652736540",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 7th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "10000",
+      "discounted_price": "8500",
+      "img_url": "https://m.media-amazon.com/images/I/61oHEo6ThUL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652763511",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 8th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "11000",
+      "discounted_price": "9999",
+      "img_url": "https://m.media-amazon.com/images/I/61wt-Q8TQVL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652795308",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 9th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "11499",
+      "discounted_price": "10499",
+      "img_url": "https://m.media-amazon.com/images/I/41e23noBSsL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652836183",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 10th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "13000",
+      "discounted_price": "11499",
+      "img_url": "https://m.media-amazon.com/images/I/51oBsiNda0L._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652858779",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 11th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "12500",
+      "discounted_price": "10999",
+      "img_url": "https://m.media-amazon.com/images/I/71WstAN+CLL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652887329",
+      "status": "Available"
+    },
+    {
+      "cate_name": "Business Professional",
+      "product_name": "Suit 12th",
+      "desc": "This is best quality Suit for any Functions.",
+      "price": "14000",
+      "discounted_price": "12499",
+      "img_url": "https://m.media-amazon.com/images/I/612CpNTA4vL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1696652922925",
+      "status": "Available"
+    }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "blogtitle": "title 1",
+      "blogdesc": "in this blog description is nothing.",
+      "blogimage": "https://rb.gy/bjfr6"
+    },
+    {
+      "id": "2",
+      "blogtitle": "title 2",
+      "blogdesc": "in this blog description is nothing.",
+      "blogimage": "https://rb.gy/bjfr6"
+    },
+    {
+      "id": "3",
+      "blogtitle": "title 3",
+      "blogdesc": "in this blog description is nothing.",
+      "blogimage": "https://rb.gy/bjfr6"
+    }
+  ],
+  "user": [
+    {
+      "name": "pradeep lodha",
+      "email": "pradeeplodha95@gmail.com",
+      "pass word": "pradeep123",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "India",
+      "id": "1694701039038",
+      "": "Jainish Patel",
+      "status": "Unblock",
+      "updated_at": " 📅 29/10/2023 ⌚ 19:41"
+    },
+    {
+      "name": "jyotindra",
+      "email": "jyotindra@gmail.com",
+      "password": "jyotindra123",
+      "mobile": "9876543210",
+      "gender": "Male",
+      "country": "India",
+      "id": "1694711668130",
+      "status": "Unblock"
+    },
+    {
+      "name": "raja",
+      "email": "raja@gmail.com",
+      "password": "raja12",
+      "mobile": "3456789012",
+      "gender": "Male",
+      "country": "India",
+      "id": "1695309354644",
+      "status": "Unblock"
+    },
+    {
+      "name": "rj",
+      "email": "rj@gmail.com",
+      "password": "rj12",
+      "mobile": "4567890123",
+      "gender": "Male",
+      "country": "India",
+      "id": "1695309419989",
+      "status": "Unblock"
+    },
+    {
+      "id": "1710492249891",
+      "name": "pradeep lodha",
+      "email": "pradeeplodha95@gmail.com",
+      "password": "Jainish123",
+      "mobile": "1231445",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 15/3/2024 ⌚ 14:14"
+    },
+    {
+      "id": "1710492295563",
+      "name": "pradeep lodha",
+      "email": "pradeeplodha@gmail.com",
+      "password": "123",
+      "mobile": "123",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 15/3/2024 ⌚ 14:14"
+    },
+    {
+      "id": "1710569963435",
+      "name": "raj",
+      "email": "pradeeplodha@gmail.com",
+      "password": "123",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "Dubai",
+      "status": "Unblock",
+      "created_at": " 📅 16/3/2024 ⌚ 11:49"
+    },
+    {
+      "id": "1711089587569",
+      "name": "mayur",
+      "email": "mayuradmin@gmail.com",
+      "password": "adminpradeep123",
+      "mobile": "123",
+      "gender": "Male",
+      "country": "Switzerland",
+      "status": "Unblock",
+      "created_at": " 📅 22/3/2024 ⌚ 12:9"
+    },
+    {
+      "id": "1711090533384",
+      "name": "Pradeep",
+      "email": "pradeepadmin@gmail.com",
+      "password": "adminpradeep123",
+      "mobile": "121",
+      "gender": "Male",
+      "country": "Canada",
+      "status": "Unblock",
+      "created_at": " 📅 22/3/2024 ⌚ 12:25"
+    },
+    {
+      "id": "1712122051895",
+      "name": "mit",
+      "email": "mit@gmail.com",
+      "password": "mit",
+      "mobile": "123",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 3/4/2024 ⌚ 10:57"
+    }
+  ],
+  "login": [
+    {
+      "id": "",
+      "email": "pradeeplodha95@gmail.com",
+      "password": "pradeep123"
+    },
+    {
+      "formValue": {
+        "email": "Mukesh",
+        "password": "Mukesh123",
+        "id": "1694686139363"
+      },
+      "email": "Jainish",
+      "password": "Jainish123*",
+      "id": "1694686691382"
+    }
+  ],
+  "countries": [
+    {
+      "countryname": "India",
+      "id": "1696523888994"
+    },
+    {
+      "countryname": "Switzerland",
+      "id": "1696523904589",
+      "categoryname": "",
+      "categorydesc": "",
+      "categoryimage": ""
+    },
+    {
+      "countryname": "Canada",
+      "id": "1696523909093",
+      "categoryname": "",
+      "categorydesc": "",
+      "categoryimage": ""
+    },
+    {
+      "countryname": "Australia",
+      "id": "1696523920773",
+      "categoryname": "",
+      "categorydesc": "",
+      "categoryimage": ""
+    },
+    {
+      "countryname": "Dubai",
+      "id": "1696523933351",
+      "categoryname": "",
+      "categorydesc": "",
+      "categoryimage": ""
+    },
+    {
+      "countryname": "USA",
+      "id": "1696523937684",
+      "categoryname": "",
+      "categorydesc": "",
+      "categoryimage": ""
+    },
+    {
+      "countryname": "New Zealand",
+      "id": "1696523987120",
+      "categoryname": "",
+      "categorydesc": "",
+      "categoryimage": ""
+    },
+    {
+      "countryname": "Japan",
+      "created_at": " 📅 6/10/2023 ⌚ 16:35",
+      "id": "1696590327430"
+    },
+    {
+      "id": "1710573042259",
+      "countryname": "india",
+      "created_at": ""
+    }
+  ],
+  "comments": [
+    {
+      "username": "pradeep",
+      "email": "pradeep@gmail.com",
+      "comment": "Hello",
+      "id": "1694680797288"
+    },
+    {
+      "username": "raja",
+      "email": "raja@gmail.com",
+      "comment": "done",
+      "id": "1694681176560"
+    }
+  ],
+  "adminuser": [
+    {
+      "id": "1",
+      "name": "pradeep",
+      "email": "pradeepadmin@gmail.com",
+      "mobile": "9876543210",
+      "password": "adminpradeep123"
+    }
+  ]
+}
